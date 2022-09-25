@@ -1,0 +1,68 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.header {
+  background-color: #c4d530;
+  color: #a71167;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.header h1 {
+  display: inline-block;
+  font-size: 30px;
+  font-weight: bolder;
+  padding: 5px;
+}
+
+.header nav {
+  padding-top: 10px;
+  margin-right: 20px;
+  float: right;
+  font-size: 20px;
+}
+
+.header nav ul {
+  list-style-type: none;
+}
+
+.header nav ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+h2 {
+  color: #3973bb;
+}
+
+#about {
+    margin-top: 110px;
+}
+
+#contact-form {
+  margin-bottom: 30px;
+}
+
+#first_name {
+  margin-right: 33px;
+}
+#last_name {
+  margin-right: 37px;
+}
+#email_address {
+  margin-right: 74px;
+}
+#phone_number {
+  margin-right: 5px;
+}
+
+.footer {
+  padding: 5px;
+  background-color: #c4d530;
+  color: #a71167;
+  font-weight: bolder;
+  text-align: center;
+}
